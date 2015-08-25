@@ -7,6 +7,6 @@ pod 'MBProgressHUD', '~> 0.9.0'
 end
 
 target 'IceCreamShopTests' do
-
+ddd 
 end
 
